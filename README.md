@@ -38,10 +38,6 @@ Machine learning models were able to predict accident severity with reasonable a
 ## Real-World Impact
 The findings can help traffic authorities and planners identify high-risk conditions and improve road safety strategies. This contributes to better traffic management and accident prevention.
 
-## Files
-- Notebook: `US_Accidents_Methodology.ipynb`
-- Cleaned Dataset: `us_accidents_cleaned.csv`
-
 ## Technologies Used
 - Python
 - Pandas
